@@ -1,0 +1,4 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("./font/OpenSans-Regular.eot?") format("eot"), url("./font/OpenSans-Regular.woff") format("woff"), url("./font/OpenSans-Regular.ttf") format("truetype"), url("./font/OpenSans-Regular.svg#OpenSans") format("svg");
+}
